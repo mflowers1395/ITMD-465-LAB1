@@ -6,6 +6,6 @@ body {
   background-color: pink;
 }
 
-h1 {
+h1,h2 {
     background-color: yellow;
 }
